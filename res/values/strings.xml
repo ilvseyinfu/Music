@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">A_Dai</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+	    <string-array name="musicMessage">
+        <item>红玫瑰</item>
+        <item>那年今日</item>
+        <item>娱乐天空</item>
+        <item>阴天快乐</item>
+        <item>梦想天灯2016</item>
+        <item>陪你度过漫长岁月</item>
+        <item>圣诞结</item>
+    </string-array>
+</resources>
